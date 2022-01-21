@@ -8,7 +8,7 @@ Projeto carregado em localhost:8080
 
 Base dados preenchida com informações fakes ( php artisan db:seed )
 
-Serviços desenvolvidos:
+### Features
 
 1) Verificar o saldo de uma conta corrente;
 2) Realizar um depósito em uma determinada conta corrente;
